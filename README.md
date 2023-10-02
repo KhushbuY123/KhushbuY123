@@ -1,7 +1,7 @@
 <!--# Hi there, I'm Khushbu Yadav👋-->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Khushbu+Yadav....&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hii,+There!+👋;This+is+Khushbu+Yadav....&center=true&size=30">
   </a>
 </h1>
 <br>
@@ -11,7 +11,7 @@
   
 -  I’m currently pursuing my Btech degree in Computer Science.
 
--  How to reach me **khushbuyad123@gmail.com**
+-  Reach to me **khushbuyad123@gmail.com**
 
 <!---  Know about my experiences [https://drive.google.com/file/d/1ScsiBhmkWhkLyalzahzfVJjgewDppkHd/view?usp=sharing]-->
 
