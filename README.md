@@ -49,5 +49,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbuy123&" alt="khushbuy123" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbuy123&label=Profile%20views&color=0e75b6&style=flat" alt="khushbuy123" /> </p>-->
+### 🏆 GitHub Profile Trophy:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushbuy123" alt="khushbuy123" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KhushbuY123&column=8&theme=darkhub&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"/>
+  </a>
+</p>
+
+---
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushbuy123" alt="khushbuy123" /></a> </p>-->
