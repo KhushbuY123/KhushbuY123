@@ -8,7 +8,7 @@
 
 
 <p align="left">
- <img alt="linkedin" height="300px" width="100%" style="padding:5px"; vertical-align: middle; src="gigi.gif"/></a>   
+ <img alt="linkedin" height="300px" width="100%" style="padding:5px"; vertical-align: middle; src=""/></a>   
 </p>
 
 ---
