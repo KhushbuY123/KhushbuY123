@@ -18,14 +18,14 @@
 ## 📈 Status
 <p align="center">
 
-  <img width="48%" src="https://github-readme-status.vercel.app/api?username=KhushbuY123&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KhushbuY123&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KhushbuY123&theme=tokyonight" />
 </p>
 
 ### 👨‍💻 Top Languages Used:
 
 <p align="center">
-  <img src = "https://readme-stats-hazel-two.vercel.app/api/top-langs/?username=KhushbuY123&layout=compact&bg_color=30,154c79,abdbe3&title_color=fff&text_color=fff" alt="KhushbuY123" />
+  <img src = "https://readme-stats-hazel-two.vercel.app/api/top-langs/?username=KhushbuY123&layout=compact&bg_color=30,0f2d3d,abdbe3&title_color=fff&text_color=fff" alt="KhushbuY123" />
 </p>
 
 
