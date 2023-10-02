@@ -7,10 +7,6 @@
 <br>
 
 
-<p align="left">
- <img alt="linkedin" height="300px" width="100%" style="padding:5px"; vertical-align: middle; src="HD-wallpaper-life-with-coding-eat-sleep-code.jpg"/></a>   
-</p>
-
 ---
 
 
