@@ -10,14 +10,13 @@
 <!---  Know about my experiences [https://drive.google.com/file/d/1ScsiBhmkWhkLyalzahzfVJjgewDppkHd/view?usp=sharing]-->
 
 ---
-### 📈 Coding Profile:
-<p align="center">
-  <a target="_blank" href="https://www.codechef.com/users/khushbuyad123" rel="noopener noreferrer">
-    <img src="https://codecard.jacoblin.cool/khushbuyad123?theme=dark&font=Poppins%20Infant&ext=heatmap">
-  </a>
-</p>
+### 📈 GitHub Activity Graph:
 
----
+<p align="center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=KhushbuY123&theme=radical&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="KhushbuY123" />
+</p>
+  
+ ---
 
 
 
