@@ -1,13 +1,24 @@
-<h1 align="center">Hi there , I'm Khushbu Yadav 👋</h1>
-<h3 align="center">A passionate frontend developer.</h3>
-# About Me!
+# Hi there, I'm Khushbu Yadav👋
+
 -  I’m currently working on my Web development and Problem Solving skills(DSA).
   
 -  I’m currently pursuing my Btech degree in Computer Science.
 
 -  How to reach me **khushbuyad123@gmail.com**
 
--  Know about my experiences [https://drive.google.com/file/d/1ScsiBhmkWhkLyalzahzfVJjgewDppkHd/view?usp=sharing](https://drive.google.com/file/d/1ScsiBhmkWhkLyalzahzfVJjgewDppkHd/view?usp=sharing)
+-  Know about my experiences [https://drive.google.com/file/d/1ScsiBhmkWhkLyalzahzfVJjgewDppkHd/view?usp=sharing]
+
+---
+<!--<h1 align="center">Hi there , I'm Khushbu Yadav 👋</h1>
+<h3 align="center">A passionate frontend developer.</h3>
+
+-  I’m currently working on my Web development and Problem Solving skills(DSA).
+  
+-  I’m currently pursuing my Btech degree in Computer Science.
+
+-  How to reach me **khushbuyad123@gmail.com**
+
+-  Know about my experiences [https://drive.google.com/file/d/1ScsiBhmkWhkLyalzahzfVJjgewDppkHd/view?usp=sharing](https://drive.google.com/file/d/1ScsiBhmkWhkLyalzahzfVJjgewDppkHd/view?usp=sharing)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
