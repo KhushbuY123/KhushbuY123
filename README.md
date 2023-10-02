@@ -12,9 +12,7 @@
 ---
 ### 📈 GitHub Activity Graph:
 
-<p align="center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=KhushbuY123&theme=radical&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="KhushbuY123" />
-</p>
+[![Khushbu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KhushbuY123&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/KhushbuY123/github-readme-activity-graph)
   
  ---
 
