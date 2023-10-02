@@ -7,7 +7,7 @@
 
 -  How to reach me **khushbuyad123@gmail.com**
 
--  Know about my experiences [https://drive.google.com/file/d/1ScsiBhmkWhkLyalzahzfVJjgewDppkHd/view?usp=sharing]
+<!---  Know about my experiences [https://drive.google.com/file/d/1ScsiBhmkWhkLyalzahzfVJjgewDppkHd/view?usp=sharing]-->
 
 ---
 ### 📈 Coding Profile:
