@@ -1,4 +1,4 @@
-# Hi there, I'm Khushbu Yadav👋
+<h3 align="center">Hi there, I'm Khushbu Yadav👋</h3> 
 <h3 align="center">A passionate frontend developer.</h3>
 
 -  I’m currently working on my Web development and Problem Solving skills(DSA).
