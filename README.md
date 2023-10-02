@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Khushbu Yadav</h1>
+<h1 align="center">Hi there , I'm Khushbu Yadav 👋</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 🌱 I’m currently learning **Javascript**
+-  I’m currently learning **Javascript**
 
-- 📫 How to reach me **khushbuyad123@gmail.com**
+-  How to reach me **khushbuyad123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ScsiBhmkWhkLyalzahzfVJjgewDppkHd/view?usp=sharing](https://drive.google.com/file/d/1ScsiBhmkWhkLyalzahzfVJjgewDppkHd/view?usp=sharing)
+-  Know about my experiences [https://drive.google.com/file/d/1ScsiBhmkWhkLyalzahzfVJjgewDppkHd/view?usp=sharing](https://drive.google.com/file/d/1ScsiBhmkWhkLyalzahzfVJjgewDppkHd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
