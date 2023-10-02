@@ -10,7 +10,14 @@
 -  Know about my experiences [https://drive.google.com/file/d/1ScsiBhmkWhkLyalzahzfVJjgewDppkHd/view?usp=sharing]
 
 ---
+### 📈 Coding Profile:
+<p align="center">
+  <a target="_blank" href="https://www.codechef.com/users/khushbuyad123" rel="noopener noreferrer">
+    <img src="https://codecard.jacoblin.cool/khushbuyad123?theme=dark&font=Poppins%20Infant&ext=heatmap">
+  </a>
+</p>
 
+---
 
 
 
