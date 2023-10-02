@@ -7,6 +7,13 @@
 <br>
 
 
+<p align="left">
+ <img alt="linkedin" height="50px" style="padding:5px"; vertical-align: middle;" src="gigi.gif"/></a>   
+</p>
+
+---
+
+
 -  I’m currently working on my Web development and Problem Solving skills(DSA).
   
 -  I’m currently pursuing my Btech degree in Computer Science.
