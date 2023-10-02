@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KhushbuY123&column=8&theme=lighthub&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=KhushbuY123&column=8&theme=darkthub&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET"/>
   </a>
 </p>
 
