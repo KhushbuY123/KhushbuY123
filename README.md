@@ -25,7 +25,7 @@
 ### 👨‍💻 Top Languages Used:
 
 <p align="center">
-  <img src = "https://readme-stats-hazel-two.vercel.app/api/top-langs/?username=KhushbuY123&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="KhushbuY123" />
+  <img src = "https://readme-stats-hazel-two.vercel.app/api/top-langs/?username=KhushbuY123&layout=compact&bg_color=30,154c79,abdbe3&title_color=fff&text_color=fff" alt="KhushbuY123" />
 </p>
 
 
