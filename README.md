@@ -1,6 +1,6 @@
 <h1 align="center">Hi there , I'm Khushbu Yadav 👋</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-<img src="gigi.gif" alt="code" width:100px height:100px>
+<img src="gigi.gif" alt="code" width:50px height:40px>
 <h3 align="center">About Me ! .</h3>
 
 -  I’m currently working on my Web development and Problem Solving skills(DSA).
