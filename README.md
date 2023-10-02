@@ -7,9 +7,6 @@
 <br>
 
 
----
-
-
 -  I’m currently working on my Web development and Problem Solving skills(DSA).
   
 -  I’m currently pursuing my Btech degree in Computer Science.
