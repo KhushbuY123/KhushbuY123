@@ -15,7 +15,7 @@
 [![Khushbu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KhushbuY123&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/KhushbuY123/github-readme-activity-graph)
   
  ---
-## 📈 Stats
+## 📈 Status
 <p align="center">
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KhushbuY123&show_icons=true&theme=tokyonight" />
