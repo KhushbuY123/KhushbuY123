@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Khushbu Yadav👋</h1> 
-<h3 align="center">ABOUT ME !.</h3>
+
 
 -  I’m currently working on my Web development and Problem Solving skills(DSA).
   
