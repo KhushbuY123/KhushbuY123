@@ -44,6 +44,7 @@
 ### Technologies ( I have worked with)
 
 <p>
+  
 - 💻 **HTML| CSS | JavaSricpt|Bootstrap|Tailwind**..
   
 - 🔧 **C | **Python.
