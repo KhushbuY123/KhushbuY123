@@ -39,12 +39,11 @@
 
 
 ---
+
+
+### Technologies ( I have worked with)
+
 <p>
-
-<h1><img height="50px" width="50px"src="Gifs/Computer.gif">Technologies<br><sub>💻&nbsp;(I have worked with)</sub></h1>
-
-
-    
 - 💻 **HTML| CSS | JavaSricpt**|**Bootstrao | **Tailwind..
 - 🔧 **C | **Python.
 </p>
