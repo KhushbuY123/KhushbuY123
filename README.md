@@ -43,9 +43,9 @@
 
 <p>
   
-- 💻 **HTML| CSS | JavaSricpt|Bootstrap|Tailwind**..
+- 💻 **HTML| CSS | JavaSricpt|Bootstrap|Tailwind|React**..
   
-- 🔧 **C | **Python.
+- 🔧 **C |Python**.
 </p>
 
 ---
