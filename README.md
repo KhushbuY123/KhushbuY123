@@ -28,6 +28,14 @@
 
 
 ---
+### 📈 Coding Profile:
+<p align="center">
+  <a target="_blank" href="https://leetcode.com/khushbu_In/" rel="noopener noreferrer">
+    <img src="https://leetcard.jacoblin.cool/khushbu_In?theme=nord&font=Poppins%20Infant&ext=heatmap">
+  </a>
+</p>
+
+---
 
 ### 👨‍💻 Top Languages Used:
 
