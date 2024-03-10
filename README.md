@@ -31,15 +31,7 @@
 ### 📈 Coding Profile:
 <p align="center">
   <a target="_blank" href="https://leetcode.com/khushbu_In/" rel="noopener noreferrer">
-    <img src="https://leetcard.jacoblin.cool/khushbu_In?theme=nord&font=Poppins%20Infant&ext=heatmap">
-  </a>
-</p>
-
----
-### 📈 Coding Profile:
-<p align="center">
-  <a target="_blank" href="https://geeksforgeeks.org/khushbuk2ni/" rel="noopener noreferrer">
-    <img src="https://gfgcard.jacoblin.cool/khushbuk2ni?theme=nord&font=Poppins%20Infant&ext=heatmap">
+    <img src="https://leetcard.jacoblin.cool/khushbu_In?theme=nord%20Infant&ext=heatmap">
   </a>
 </p>
 
