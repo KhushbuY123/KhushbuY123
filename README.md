@@ -66,7 +66,7 @@
 
 ### 🏆 Holopin Rewards
 
-[![Khushbu's Holopin Badges](https://holopin.me/@khushbu1023](https://holopin.io/@khushbu1023)
+[![Khushbu's Holopin Badges](https://holopin.me/@khushbu1023)](https://holopin.io/@khushbu1023)
 
 ---
 
