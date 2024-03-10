@@ -36,6 +36,14 @@
 </p>
 
 ---
+### 📈 Coding Profile:
+<p align="center">
+  <a target="_blank" href="https://geeksforgeeks.org/khushbuk2ni/" rel="noopener noreferrer">
+    <img src="https://gfgcard.jacoblin.cool/khushbuk2ni?theme=nord&font=Poppins%20Infant&ext=heatmap">
+  </a>
+</p>
+
+---
 
 ### 👨‍💻 Top Languages Used:
 
