@@ -64,6 +64,12 @@
 
 ---
 
+### 🏆 Holopin Rewards
+
+[![Khushbu's Holopin Badges](https://holopin.me/@khushbu1023#](https://holopin.io/@khushbu1023#)
+
+---
+
 ### 🏆 GitHub Profile Trophy:
 
 <p align="center">
