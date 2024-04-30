@@ -78,9 +78,4 @@
   </a>
 </p>
 
-### Github
-
-[![khushbu's github stats](https://github-readme-stats.vercel.app/api?username=KhushbuY123&count_private=true&show_icons=true&theme=vue)](https://github.com/KhushbuY123)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushbuY123&layout=compact&langs_count=8&theme=vue)](https://github.com/KhushbuY123)
 
