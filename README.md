@@ -31,7 +31,7 @@
 ### 📈 Coding Profile:
 <p align="center">
   <a target="_blank" href="https://leetcode.com/u/KhushbuY123/" rel="noopener noreferrer">
-    <img src="https://leetcard.jacoblin.cool/khushbu_In?theme=nord&font=Poppins%20Infant&ext=heatmap">
+    <img src="https://leetcard.jacoblin.cool/KhushbuY123?theme=nord&font=Poppins%20Infant&ext=heatmap">
   </a>
 </p>
 
