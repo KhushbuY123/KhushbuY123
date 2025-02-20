@@ -48,12 +48,8 @@
 
 
 ### Technologies ( I have worked with)
-
-<p>
-  
-- 💻 **HTML| CSS | JavaSricpt|Bootstrap|Tailwind|React**..
-  
-- 🔧 **C |Python**.
+<p> 
+- 💻 **Python| HTML| CSS | JavaSricpt| Bootstrap| Tailwind| React.js| Next.js |Typescript| Node.js**..
 </p>
 
 ---
