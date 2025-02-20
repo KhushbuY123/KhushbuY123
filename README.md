@@ -49,7 +49,7 @@
 
 ### Technologies ( I have worked with)
 <p> 
-- 💻 **Python| HTML| CSS | JavaSricpt| Bootstrap| Tailwind| React.js| Next.js |Typescript| Node.js**..
+- 💻 Python, HTML, CSS, JavaSricpt, Bootstrap, Tailwind, React.js, Next.js, Typescript, Node.js, Express, MongoDB
 </p>
 
 ---
