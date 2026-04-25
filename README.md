@@ -45,8 +45,14 @@
 
 
 ### Technologies ( I have worked with)
-<p> 
-- 💻 Python, HTML, CSS, JavaSricpt, Bootstrap, Tailwind, React.js, Next.js, Typescript, Node.js, Express, MongoDB
+<p>
+💻 <strong>Languages:</strong> Python, JavaScript, TypeScript, HTML, CSS <br/>
+
+🎨 <strong>Frontend:</strong> React.js, Next.js, Tailwind CSS, Bootstrap, ShadCN <br/>
+
+⚙️ <strong>Backend:</strong> Node.js, Express.js <br/>
+
+🗄️ <strong>Databases:</strong> MongoDB, PostgreSQL
 </p>
 
 ---
