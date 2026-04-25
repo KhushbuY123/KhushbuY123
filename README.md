@@ -6,11 +6,9 @@
 <br>
 
 
--  I’m currently working on my Web development and Problem Solving skills(DSA).
-  
--  I’m currently pursuing my Btech degree in Computer Science.
+- I’m currently working as a MERN Stack Developer, building full-stack web applications.
 
--  Reach to me **khushbuyad123@gmail.com**
+- Reach me at **khushbuyad123@gmail.com**
 
 
 ---
