@@ -63,14 +63,4 @@
 
 [![Khushbu's Holopin Badges](https://holopin.me/@khushbu1023)](https://holopin.io/@khushbu1023)
 
----
-
-### 🏆 GitHub Profile Trophy:
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KhushbuY123&theme=darkhub&no-frame=true&no-bg=true&margin-w=10"/>
-  </a>
-</p>
-
 
